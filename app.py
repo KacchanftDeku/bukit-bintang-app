@@ -89,10 +89,8 @@ elif page == "📡 Nearest Finder":
                 st.error("❌ Location not found.")
 
         # Load facilities
-        df = pd.read_csv(
-            r"C:\Users\User\Documents\2025 Master UiTM\Sem 1\GES 716 Programming\INDIVIDUAL PROJECT\Facilities.csv",
-            encoding='ISO-8859-1'
-        )
+        df = pd.read_csv("Facilities.csv", encoding='ISO-8859-1')
+
         df.columns = df.columns.str.strip().str.lower()
         required_cols = ['longitude', 'latitude', 'name', 'type', 'contact', 'email', 'office hour']
         if not all(col in df.columns for col in required_cols):
