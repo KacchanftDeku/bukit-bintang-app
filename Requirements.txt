@@ -1,0 +1,8 @@
+streamlit
+pandas
+geopandas
+folium
+shapely
+streamlit-geolocation
+geopy
+streamlit-folium

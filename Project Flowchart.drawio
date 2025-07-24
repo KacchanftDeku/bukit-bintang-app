@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="3YgYHRVZM67JauAjjGaC">
+    <mxGraphModel dx="1226" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="10" width="600" height="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aDXTDNU3m0xOqQBFQjP9-2" target="aDXTDNU3m0xOqQBFQjP9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aDXTDNU3m0xOqQBFQjP9-2" target="aDXTDNU3m0xOqQBFQjP9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-2" value="&lt;p&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Times New Roman&quot;&gt;Install Python Packages&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="288.5" y="90" width="144" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aDXTDNU3m0xOqQBFQjP9-3" target="aDXTDNU3m0xOqQBFQjP9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-19" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aDXTDNU3m0xOqQBFQjP9-3" target="aDXTDNU3m0xOqQBFQjP9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-3" value="&lt;p&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Times New Roman&quot;&gt;Prepare and Load Dataset&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="288.5" y="250" width="144" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aDXTDNU3m0xOqQBFQjP9-4" target="aDXTDNU3m0xOqQBFQjP9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-4" value="&lt;p&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Times New Roman&quot;&gt;Clean and Standardize Data with Pandas&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="251.5" y="370" width="218" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-21" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aDXTDNU3m0xOqQBFQjP9-5" target="aDXTDNU3m0xOqQBFQjP9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-5" value="&lt;p&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Times New Roman&quot;&gt;Convert to GeoDataFrame using Geopandas&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="251.5" y="490" width="215" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aDXTDNU3m0xOqQBFQjP9-6" target="aDXTDNU3m0xOqQBFQjP9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aDXTDNU3m0xOqQBFQjP9-6" target="aDXTDNU3m0xOqQBFQjP9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-6" value="&lt;p&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Times New Roman&quot;&gt;Capture User Location&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="251.5" y="630" width="218" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-23" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aDXTDNU3m0xOqQBFQjP9-7" target="aDXTDNU3m0xOqQBFQjP9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-7" value="&lt;p&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Times New Roman&quot;&gt;Select Facilities Type from Dropdown Menu&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="251.5" y="730" width="218" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-24" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="aDXTDNU3m0xOqQBFQjP9-8" target="aDXTDNU3m0xOqQBFQjP9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-8" value="&lt;p&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Times New Roman&quot;&gt;Calculated Distance&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="251.5" y="848" width="218" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-9" value="&lt;p&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Times New Roman&quot;&gt;Display 3 Nearest Facilities with Map and Info Box&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="251.5" y="940" width="218" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;pandas, streamlit, geopandas, shapely, streamlit_solium-folium, streamlit_geolocation and geopy&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="550.75" y="50" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Facilities, coordinates, types, contact, email and operation hours&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="550" y="234.5" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aDXTDNU3m0xOqQBFQjP9-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Real time location or user input&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="550" y="617.5" width="240" height="65" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
